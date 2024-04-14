@@ -12,3 +12,4 @@ This repository contains the code for the paper:
 - Stochastic Dynamical Systems
 - Uncertainty Quantification
 - Causal Inference
+- Analytically Solvable Statistics
