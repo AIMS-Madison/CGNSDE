@@ -8,7 +8,7 @@ This repository contains the code for the paper:
 
 ## Highlights:
 - Machine Learning + Data Assimilation
-- (Neural Network + Conditional-Gaussian Filter)
+ (Neural Network + Conditional-Gaussian Filter)
 - Stochastic Dynamical Systems
 - Uncertainty Quantification
 - Causal Inference
