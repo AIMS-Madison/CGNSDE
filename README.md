@@ -6,9 +6,9 @@ This repository contains the code for the paper:
 - [CGNSDE: Conditional Gaussian Neural Stochastic Differential Equation for Modeling Complex Systems and Data Assimilation
 ](https://arxiv.org/abs/2404.06749)
 
-
-### - Machine Learning + Data Assimilation
-- Neural Network + Conditional-Gaussian Filter
-### Stochastic Dynamical Systems
-### Uncertainty Quantification
-### Causal Inference
+## Highlights:
+- Machine Learning + Data Assimilation
+- (Neural Network + Conditional-Gaussian Filter)
+- Stochastic Dynamical Systems
+- Uncertainty Quantification
+- Causal Inference
