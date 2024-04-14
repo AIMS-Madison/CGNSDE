@@ -1,6 +1,6 @@
 # CGNSDE: Conditional Gaussian Neural SDE
 
-## Model for Forward State Forecast and Inverse State Estimation
+## Forward State Forecast and Inverse State Estimation for Stochastic Dynamical Systems
 
 This repository contains the code for the paper:
 - [CGNSDE: Conditional Gaussian Neural Stochastic Differential Equation for Modeling Complex Systems and Data Assimilation
